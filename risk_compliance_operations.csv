@@ -1,0 +1,401 @@
+RecordID,Department,Country,RiskCategory,ControlID,ControlName,ControlOwner,TestDate,TestResult,Severity,IssueLogged,IssueStatus,DaysOpen,AuditCycle,RiskScore,RemediationDueDate,ActionOwner,ActionProgress,Comments
+RC001,HR,Canada,Compliance,CTRL-093,Expense Authorization,Lucy Wanjiku,2014-07-06,Fail,Low,Yes,Closed,87,Q3 2014,83,2014-09-23,David Njoroge,78,No issues found
+RC002,IT,Germany,IT Security,CTRL-083,Payroll Validation,John Doe,2013-04-09,Pass,,No,,0,Q2 2013,25,,,,Follow-up scheduled
+RC003,HR,France,Operational,CTRL-026,Expense Authorization,Grace Mwangi,2013-07-16,Pass,,No,,0,Q3 2013,24,,,,Control design effective
+RC004,Legal,Germany,IT Security,CTRL-085,AML Monitoring,Peter Otieno,2014-10-01,Fail,Low,Yes,In Progress,28,Q4 2014,29,2014-10-31,David Njoroge,83,Pending management approval
+RC005,Compliance,Mexico,Operational,CTRL-060,Vendor Approval Process,Ali Hassan,2014-07-26,Fail,Medium,Yes,Closed,7,Q3 2014,54,2014-09-27,Mary Achieng,93,Awaiting vendor response
+RC006,Compliance,Germany,Compliance,CTRL-010,Data Backup Verification,Peter Otieno,2013-04-10,Pass,,No,,0,Q2 2013,49,,,,Control design effective
+RC007,Procurement,Germany,Financial,CTRL-025,Fraud Risk Assessment,Lucy Wanjiku,2013-09-12,Pass,,No,,0,Q3 2013,91,,,,Need system update
+RC008,Operations,Canada,IT Security,CTRL-096,Expense Authorization,Lucy Wanjiku,2014-08-14,Fail,High,Yes,In Progress,89,Q3 2014,74,2014-11-08,Mary Achieng,21,Follow-up scheduled
+RC009,Operations,France,IT Security,CTRL-065,Payroll Validation,Lucy Wanjiku,2013-06-11,Fail,Medium,Yes,In Progress,70,Q2 2013,61,2013-09-03,Ali Hassan,52,Need system update
+RC010,Procurement,Germany,Compliance,CTRL-078,Data Backup Verification,Peter Otieno,2014-07-13,Pass,,No,,0,Q3 2014,68,,,,Control design effective
+RC011,Legal,Mexico,Compliance,CTRL-047,AML Monitoring,Grace Mwangi,2014-02-11,Pass,,No,,0,Q1 2014,24,,,,No issues found
+RC012,Operations,Canada,Operational,CTRL-067,Access Review,Ali Hassan,2013-01-07,Fail,Low,Yes,Open,109,Q1 2013,60,2013-02-07,Ali Hassan,70,Control design effective
+RC013,Operations,Mexico,Strategic,CTRL-119,Physical Asset Protection,Jane Smith,2013-04-07,Pass,,No,,0,Q2 2013,78,,,,No issues found
+RC014,HR,Germany,Financial,CTRL-034,Payroll Validation,Peter Otieno,2013-09-13,Pass,,No,,0,Q3 2013,52,,,,No issues found
+RC015,Finance,Canada,Strategic,CTRL-052,Physical Asset Protection,Jane Smith,2013-03-21,Fail,Medium,Yes,Open,62,Q1 2013,93,2013-06-11,Mary Achieng,76,Need system update
+RC016,IT,United,Operational,CTRL-094,Physical Asset Protection,Grace Mwangi,2013-03-22,Pass,,No,,0,Q1 2013,62,,,,No issues found
+RC017,Compliance,States,IT Security,CTRL-054,Expense Authorization,Jane Smith,2014-10-31,Pass,,No,,0,Q4 2014,68,,,,Awaiting vendor response
+RC018,IT,of,Strategic,CTRL-006,Payroll Validation,Peter Otieno,2014-08-02,Pass,,No,,0,Q3 2014,61,,,,Control design effective
+RC019,Legal,America,Financial,CTRL-020,Vendor Approval Process,Lucy Wanjiku,2014-02-07,Fail,High,Yes,Closed,64,Q1 2014,31,2014-03-23,Grace Mwangi,37,Pending management approval
+RC020,HR,Canada,Financial,CTRL-044,Expense Authorization,Grace Mwangi,2014-08-09,Pass,,No,,0,Q3 2014,90,,,,Pending management approval
+RC021,IT,Mexico,Operational,CTRL-052,Fraud Risk Assessment,Grace Mwangi,2014-12-16,Pass,,No,,0,Q4 2014,37,,,,Pending management approval
+RC022,Operations,Canada,Financial,CTRL-063,Procurement Policy Adherence,Lucy Wanjiku,2014-08-09,Pass,,No,,0,Q3 2014,91,,,,Control design effective
+RC023,Legal,Germany,Strategic,CTRL-032,Data Backup Verification,John Doe,2013-09-30,Fail,Medium,Yes,Closed,118,Q3 2013,93,2013-11-04,Mary Achieng,85,Pending management approval
+RC024,Procurement,Germany,Compliance,CTRL-045,Data Backup Verification,Ali Hassan,2013-12-19,Pass,,No,,0,Q4 2013,59,,,,Follow-up scheduled
+RC025,IT,Mexico,Strategic,CTRL-106,AML Monitoring,Peter Otieno,2013-05-30,Fail,Low,Yes,Open,25,Q2 2013,67,2013-07-08,Mary Achieng,14,Need system update
+RC026,Finance,France,Financial,CTRL-080,Access Review,Ali Hassan,2013-01-15,Fail,High,Yes,Open,39,Q1 2013,77,2013-03-16,Mary Achieng,42,Follow-up scheduled
+RC027,Legal,Mexico,Strategic,CTRL-028,Data Backup Verification,Peter Otieno,2014-06-20,Fail,High,Yes,In Progress,79,Q2 2014,38,2014-09-02,Mary Achieng,48,Control design effective
+RC028,Legal,Mexico,Strategic,CTRL-006,Incident Response,Jane Smith,2013-03-03,Fail,Low,Yes,Closed,79,Q1 2013,54,2013-04-05,Grace Mwangi,83,Awaiting vendor response
+RC029,Finance,United,IT Security,CTRL-085,Incident Response,Lucy Wanjiku,2014-11-07,Fail,Low,Yes,Open,37,Q4 2014,69,2014-12-21,Grace Mwangi,65,Need system update
+RC030,Finance,States,Compliance,CTRL-063,Physical Asset Protection,Peter Otieno,2013-04-01,Pass,,No,,0,Q2 2013,45,,,,Control design effective
+RC031,Procurement,of,Strategic,CTRL-119,Vendor Approval Process,John Doe,2013-09-11,Fail,Medium,Yes,In Progress,50,Q3 2013,40,2013-10-12,Ali Hassan,87,No issues found
+RC032,IT,America,Compliance,CTRL-031,Fraud Risk Assessment,Ali Hassan,2013-03-05,Fail,Medium,Yes,Open,120,Q1 2013,91,2013-06-03,Ali Hassan,28,Follow-up scheduled
+RC033,IT,Canada,IT Security,CTRL-085,Access Review,John Doe,2014-01-27,Pass,,No,,0,Q1 2014,73,,,,Follow-up scheduled
+RC034,Operations,United,Financial,CTRL-055,Incident Response,Peter Otieno,2013-12-04,Fail,High,Yes,Open,26,Q4 2013,37,2014-02-09,David Njoroge,17,No issues found
+RC035,Legal,States,Strategic,CTRL-117,Access Review,Grace Mwangi,2013-05-29,Pass,,No,,0,Q2 2013,60,,,,Awaiting vendor response
+RC036,Operations,of,Strategic,CTRL-093,Expense Authorization,Jane Smith,2013-11-22,Pass,,No,,0,Q4 2013,23,,,,No issues found
+RC037,Procurement,America,IT Security,CTRL-039,AML Monitoring,Lucy Wanjiku,2014-10-15,Fail,Low,Yes,Open,13,Q4 2014,36,2014-11-25,Mary Achieng,97,Control design effective
+RC038,Operations,Canada,Compliance,CTRL-078,Physical Asset Protection,Peter Otieno,2013-08-25,Pass,,No,,0,Q3 2013,49,,,,Need system update
+RC039,Finance,Canada,Compliance,CTRL-011,AML Monitoring,Jane Smith,2014-05-30,Fail,High,Yes,Closed,47,Q2 2014,43,2014-08-22,Grace Mwangi,62,Pending management approval
+RC040,HR,Germany,Financial,CTRL-025,Data Backup Verification,John Doe,2014-02-23,Pass,,No,,0,Q1 2014,54,,,,Pending management approval
+RC041,HR,Mexico,Financial,CTRL-097,Data Backup Verification,John Doe,2013-07-01,Fail,High,Yes,In Progress,88,Q3 2013,61,2013-09-24,Grace Mwangi,31,Pending management approval
+RC042,Procurement,France,Operational,CTRL-078,Procurement Policy Adherence,Lucy Wanjiku,2013-11-17,Fail,High,Yes,Closed,73,Q4 2013,88,2014-01-19,Mary Achieng,66,Awaiting vendor response
+RC043,Procurement,Germany,IT Security,CTRL-106,Vendor Approval Process,Jane Smith,2014-06-16,Fail,High,Yes,Open,71,Q2 2014,69,2014-08-18,Mary Achieng,24,No issues found
+RC044,Procurement,Germany,IT Security,CTRL-114,Incident Response,Ali Hassan,2014-04-18,Pass,,No,,0,Q2 2014,74,,,,No issues found
+RC045,Operations,Germany,Operational,CTRL-089,Fraud Risk Assessment,Jane Smith,2014-04-20,Fail,Low,Yes,Closed,64,Q2 2014,34,2014-05-31,David Njoroge,50,Pending management approval
+RC046,IT,United,IT Security,CTRL-004,Access Review,Grace Mwangi,2014-08-28,Pass,,No,,0,Q3 2014,78,,,,Awaiting vendor response
+RC047,IT,States,Compliance,CTRL-089,Access Review,Lucy Wanjiku,2013-05-07,Pass,,No,,0,Q2 2013,34,,,,Need system update
+RC048,Procurement,of,Compliance,CTRL-011,Fraud Risk Assessment,Lucy Wanjiku,2014-01-29,Pass,,No,,0,Q1 2014,68,,,,Control design effective
+RC049,Procurement,America,Operational,CTRL-099,Access Review,Ali Hassan,2014-08-03,Pass,,No,,0,Q3 2014,40,,,,Follow-up scheduled
+RC050,HR,Canada,Operational,CTRL-054,Incident Response,Ali Hassan,2014-04-02,Fail,High,Yes,Open,15,Q2 2014,36,2014-05-14,Mary Achieng,79,No issues found
+RC051,Finance,Canada,IT Security,CTRL-064,AML Monitoring,Peter Otieno,2013-01-06,Fail,Low,Yes,Open,75,Q1 2013,80,2013-03-06,Grace Mwangi,56,Awaiting vendor response
+RC052,Operations,Germany,Strategic,CTRL-001,Data Backup Verification,Peter Otieno,2013-10-12,Pass,,No,,0,Q4 2013,26,,,,Follow-up scheduled
+RC053,HR,France,Operational,CTRL-084,Payroll Validation,John Doe,2013-05-29,Pass,,No,,0,Q2 2013,93,,,,Control design effective
+RC054,IT,Germany,Compliance,CTRL-118,Expense Authorization,John Doe,2013-04-22,Fail,Low,Yes,Open,86,Q2 2013,56,2013-06-30,David Njoroge,58,Need system update
+RC055,Operations,France,Compliance,CTRL-120,Vendor Approval Process,John Doe,2013-11-03,Fail,Medium,Yes,In Progress,104,Q4 2013,28,2014-01-20,Grace Mwangi,70,Awaiting vendor response
+RC056,IT,France,IT Security,CTRL-018,Expense Authorization,Lucy Wanjiku,2013-10-09,Fail,High,Yes,In Progress,67,Q4 2013,46,2013-12-22,David Njoroge,78,Awaiting vendor response
+RC057,Finance,Canada,Strategic,CTRL-094,Fraud Risk Assessment,John Doe,2014-05-11,Fail,Medium,Yes,Closed,108,Q2 2014,60,2014-06-26,Ali Hassan,16,Control design effective
+RC058,Operations,France,IT Security,CTRL-067,AML Monitoring,Grace Mwangi,2013-07-04,Pass,,No,,0,Q3 2013,57,,,,Follow-up scheduled
+RC059,Finance,United,Operational,CTRL-004,AML Monitoring,Lucy Wanjiku,2013-05-01,Pass,,No,,0,Q2 2013,73,,,,Pending management approval
+RC060,Finance,States,Compliance,CTRL-045,Fraud Risk Assessment,Lucy Wanjiku,2013-08-06,Pass,,No,,0,Q3 2013,45,,,,Need system update
+RC061,IT,of,Compliance,CTRL-102,Expense Authorization,Ali Hassan,2013-11-04,Fail,Low,Yes,Open,87,Q4 2013,62,2013-12-25,Grace Mwangi,92,Control design effective
+RC062,Operations,America,Operational,CTRL-107,Access Review,Jane Smith,2013-12-05,Fail,High,Yes,In Progress,117,Q4 2013,80,2014-02-24,Mary Achieng,82,Follow-up scheduled
+RC063,Procurement,Germany,Financial,CTRL-081,AML Monitoring,Peter Otieno,2013-12-10,Fail,Medium,Yes,Closed,7,Q4 2013,86,2014-01-28,Ali Hassan,71,Control design effective
+RC064,Finance,France,Financial,CTRL-074,Payroll Validation,Ali Hassan,2013-03-09,Pass,,No,,0,Q1 2013,55,,,,Awaiting vendor response
+RC065,IT,Germany,IT Security,CTRL-081,Fraud Risk Assessment,Jane Smith,2014-08-08,Fail,Low,Yes,Closed,14,Q3 2014,59,2014-10-22,Ali Hassan,90,Awaiting vendor response
+RC066,IT,United,IT Security,CTRL-012,AML Monitoring,Jane Smith,2014-01-16,Fail,Medium,Yes,Open,67,Q1 2014,58,2014-02-26,Mary Achieng,47,Awaiting vendor response
+RC067,Compliance,States,Financial,CTRL-117,Expense Authorization,Grace Mwangi,2014-06-03,Pass,,No,,0,Q2 2014,81,,,,Control design effective
+RC068,HR,of,Financial,CTRL-044,AML Monitoring,Lucy Wanjiku,2014-06-21,Fail,Medium,Yes,Open,98,Q2 2014,32,2014-09-11,David Njoroge,26,Need system update
+RC069,Finance,America,IT Security,CTRL-050,Fraud Risk Assessment,John Doe,2013-01-05,Fail,Low,Yes,Closed,108,Q1 2013,31,2013-02-25,Grace Mwangi,5,Awaiting vendor response
+RC070,Operations,United,Compliance,CTRL-003,Physical Asset Protection,Ali Hassan,2014-10-17,Pass,,No,,0,Q4 2014,61,,,,Follow-up scheduled
+RC071,HR,States,Compliance,CTRL-036,Fraud Risk Assessment,Ali Hassan,2014-03-28,Pass,,No,,0,Q1 2014,54,,,,Follow-up scheduled
+RC072,HR,of,Compliance,CTRL-015,Vendor Approval Process,Peter Otieno,2014-07-28,Pass,,No,,0,Q3 2014,46,,,,Control design effective
+RC073,IT,America,Strategic,CTRL-041,Incident Response,Jane Smith,2014-12-23,Fail,High,Yes,Open,21,Q4 2014,29,2015-02-10,Ali Hassan,69,Pending management approval
+RC074,Finance,United,Financial,CTRL-004,AML Monitoring,Lucy Wanjiku,2013-02-21,Pass,,No,,0,Q1 2013,69,,,,Awaiting vendor response
+RC075,Finance,States,IT Security,CTRL-051,Access Review,Lucy Wanjiku,2014-09-03,Fail,High,Yes,In Progress,39,Q3 2014,62,2014-11-24,David Njoroge,91,Need system update
+RC076,Compliance,of,Strategic,CTRL-011,AML Monitoring,Peter Otieno,2013-05-15,Pass,,No,,0,Q2 2013,79,,,,Awaiting vendor response
+RC077,Procurement,America,Compliance,CTRL-088,AML Monitoring,Grace Mwangi,2013-08-26,Pass,,No,,0,Q3 2013,38,,,,Control design effective
+RC078,IT,France,Compliance,CTRL-051,Access Review,Lucy Wanjiku,2014-11-13,Fail,Medium,Yes,In Progress,62,Q4 2014,23,2014-12-17,Grace Mwangi,14,No issues found
+RC079,Procurement,France,IT Security,CTRL-109,Access Review,Ali Hassan,2013-12-23,Pass,,No,,0,Q4 2013,85,,,,Awaiting vendor response
+RC080,Procurement,France,Operational,CTRL-042,Fraud Risk Assessment,Lucy Wanjiku,2013-03-14,Fail,High,Yes,In Progress,51,Q1 2013,95,2013-05-09,David Njoroge,79,Follow-up scheduled
+RC081,Operations,France,Financial,CTRL-062,Procurement Policy Adherence,John Doe,2013-12-15,Pass,,No,,0,Q4 2013,95,,,,Pending management approval
+RC082,Compliance,Canada,IT Security,CTRL-073,Payroll Validation,Peter Otieno,2014-12-12,Pass,,No,,0,Q4 2014,42,,,,Need system update
+RC083,Legal,United,Operational,CTRL-095,Physical Asset Protection,Grace Mwangi,2013-04-28,Fail,Medium,Yes,Closed,12,Q2 2013,76,2013-06-08,Ali Hassan,51,Awaiting vendor response
+RC084,Operations,States,Operational,CTRL-088,Physical Asset Protection,Grace Mwangi,2013-12-02,Fail,High,Yes,Closed,7,Q4 2013,31,2014-01-14,David Njoroge,74,Need system update
+RC085,Compliance,of,Operational,CTRL-097,Access Review,Lucy Wanjiku,2013-06-02,Fail,High,Yes,In Progress,49,Q2 2013,93,2013-07-30,David Njoroge,26,Need system update
+RC086,IT,America,Compliance,CTRL-073,Incident Response,Grace Mwangi,2013-12-19,Pass,,No,,0,Q4 2013,94,,,,Awaiting vendor response
+RC087,Operations,Mexico,Strategic,CTRL-052,Access Review,Ali Hassan,2013-03-05,Fail,High,Yes,Open,0,Q1 2013,91,2013-05-26,Ali Hassan,14,No issues found
+RC088,Compliance,United,Operational,CTRL-031,Procurement Policy Adherence,Lucy Wanjiku,2014-08-28,Fail,High,Yes,In Progress,91,Q3 2014,68,2014-10-22,Grace Mwangi,55,Control design effective
+RC089,HR,States,Financial,CTRL-061,Access Review,Jane Smith,2014-07-23,Fail,Medium,Yes,In Progress,19,Q3 2014,56,2014-10-16,David Njoroge,17,Awaiting vendor response
+RC090,Finance,of,Operational,CTRL-019,AML Monitoring,Lucy Wanjiku,2014-03-24,Pass,,No,,0,Q1 2014,30,,,,Follow-up scheduled
+RC091,Legal,America,IT Security,CTRL-111,AML Monitoring,Lucy Wanjiku,2014-09-11,Fail,High,Yes,Open,58,Q3 2014,85,2014-11-07,Grace Mwangi,49,No issues found
+RC092,HR,Canada,Financial,CTRL-055,Physical Asset Protection,John Doe,2014-08-15,Fail,High,Yes,Open,91,Q3 2014,84,2014-10-01,Grace Mwangi,69,Control design effective
+RC093,IT,United,Operational,CTRL-005,Physical Asset Protection,Grace Mwangi,2014-12-23,Fail,Low,Yes,Closed,61,Q4 2014,30,2015-01-31,Ali Hassan,59,Control design effective
+RC094,Finance,States,Strategic,CTRL-114,Physical Asset Protection,John Doe,2013-09-09,Fail,High,Yes,Closed,84,Q3 2013,29,2013-11-21,Ali Hassan,78,Awaiting vendor response
+RC095,IT,of,Strategic,CTRL-100,Vendor Approval Process,Grace Mwangi,2014-04-10,Fail,High,Yes,Closed,42,Q2 2014,73,2014-06-01,Ali Hassan,37,Follow-up scheduled
+RC096,Finance,America,Strategic,CTRL-096,Incident Response,Lucy Wanjiku,2014-08-01,Fail,Low,Yes,Closed,60,Q3 2014,94,2014-09-10,Mary Achieng,84,No issues found
+RC097,Compliance,France,Strategic,CTRL-004,Incident Response,Grace Mwangi,2013-03-26,Pass,,No,,0,Q1 2013,84,,,,Awaiting vendor response
+RC098,Compliance,Germany,Compliance,CTRL-033,Access Review,Peter Otieno,2013-10-15,Fail,Medium,Yes,Open,94,Q4 2013,34,2013-12-22,David Njoroge,75,Need system update
+RC099,HR,Mexico,IT Security,CTRL-048,Access Review,Ali Hassan,2014-12-19,Pass,,No,,0,Q4 2014,82,,,,Follow-up scheduled
+RC100,Compliance,Mexico,Strategic,CTRL-111,Vendor Approval Process,Ali Hassan,2013-03-28,Pass,,No,,0,Q1 2013,39,,,,Pending management approval
+RC101,Compliance,France,IT Security,CTRL-099,Procurement Policy Adherence,Jane Smith,2014-11-08,Fail,High,Yes,Closed,21,Q4 2014,46,2015-01-13,Ali Hassan,6,Need system update
+RC102,IT,Mexico,Operational,CTRL-007,Access Review,Grace Mwangi,2014-02-13,Fail,Medium,Yes,In Progress,95,Q1 2014,88,2014-03-29,Grace Mwangi,87,Need system update
+RC103,Procurement,United,IT Security,CTRL-034,Access Review,Peter Otieno,2014-03-22,Pass,,No,,0,Q1 2014,56,,,,Pending management approval
+RC104,Procurement,States,Compliance,CTRL-068,Vendor Approval Process,John Doe,2014-06-29,Fail,Medium,Yes,Closed,117,Q2 2014,54,2014-08-19,Ali Hassan,34,Awaiting vendor response
+RC105,IT,of,Strategic,CTRL-051,AML Monitoring,Lucy Wanjiku,2013-09-05,Pass,,No,,0,Q3 2013,86,,,,No issues found
+RC106,Legal,America,Financial,CTRL-041,Fraud Risk Assessment,John Doe,2014-11-20,Pass,,No,,0,Q4 2014,28,,,,Awaiting vendor response
+RC107,Procurement,France,Operational,CTRL-068,Expense Authorization,Lucy Wanjiku,2014-04-02,Fail,Low,Yes,Closed,36,Q2 2014,52,2014-05-14,Mary Achieng,3,Control design effective
+RC108,Finance,Canada,Operational,CTRL-077,Data Backup Verification,Peter Otieno,2014-10-16,Pass,,No,,0,Q4 2014,35,,,,Awaiting vendor response
+RC109,Compliance,United,Strategic,CTRL-017,Procurement Policy Adherence,Lucy Wanjiku,2014-10-26,Pass,,No,,0,Q4 2014,34,,,,Need system update
+RC110,HR,States,Compliance,CTRL-038,AML Monitoring,Lucy Wanjiku,2013-03-19,Fail,Medium,Yes,In Progress,88,Q1 2013,61,2013-05-04,David Njoroge,99,Awaiting vendor response
+RC111,IT,of,Operational,CTRL-049,Procurement Policy Adherence,Ali Hassan,2013-03-03,Fail,Medium,Yes,Open,56,Q1 2013,28,2013-05-03,David Njoroge,78,Pending management approval
+RC112,HR,America,IT Security,CTRL-014,Access Review,Peter Otieno,2014-03-18,Pass,,No,,0,Q1 2014,33,,,,Pending management approval
+RC113,Legal,United,Compliance,CTRL-014,Vendor Approval Process,John Doe,2013-03-14,Fail,Medium,Yes,Open,114,Q1 2013,83,2013-04-22,Mary Achieng,4,Need system update
+RC114,Procurement,States,Compliance,CTRL-020,Payroll Validation,Grace Mwangi,2014-08-12,Pass,,No,,0,Q3 2014,85,,,,Need system update
+RC115,Compliance,of,IT Security,CTRL-062,Procurement Policy Adherence,Grace Mwangi,2013-03-13,Pass,,No,,0,Q1 2013,20,,,,Pending management approval
+RC116,Legal,America,IT Security,CTRL-016,Physical Asset Protection,Peter Otieno,2014-01-03,Fail,High,Yes,In Progress,51,Q1 2014,27,2014-03-14,Mary Achieng,46,Control design effective
+RC117,Compliance,United,Compliance,CTRL-011,AML Monitoring,Ali Hassan,2014-10-26,Pass,,No,,0,Q4 2014,42,,,,Control design effective
+RC118,Finance,States,IT Security,CTRL-085,Data Backup Verification,Ali Hassan,2014-12-14,Fail,Low,Yes,Closed,88,Q4 2014,65,2015-02-13,Mary Achieng,80,Pending management approval
+RC119,Legal,of,Financial,CTRL-018,Vendor Approval Process,Jane Smith,2013-01-26,Pass,,No,,0,Q1 2013,82,,,,Pending management approval
+RC120,Finance,America,Strategic,CTRL-083,Incident Response,Grace Mwangi,2014-07-01,Fail,Low,Yes,Open,43,Q3 2014,27,2014-08-21,Mary Achieng,51,Awaiting vendor response
+RC121,HR,United,Strategic,CTRL-059,Fraud Risk Assessment,Jane Smith,2014-08-17,Pass,,No,,0,Q3 2014,29,,,,Awaiting vendor response
+RC122,Legal,States,Financial,CTRL-063,Vendor Approval Process,Grace Mwangi,2014-09-26,Pass,,No,,0,Q3 2014,51,,,,Need system update
+RC123,Legal,of,Financial,CTRL-002,Access Review,Lucy Wanjiku,2013-02-21,Fail,Low,Yes,In Progress,78,Q1 2013,41,2013-05-15,Mary Achieng,13,Awaiting vendor response
+RC124,Procurement,America,Strategic,CTRL-103,Physical Asset Protection,Jane Smith,2013-03-06,Pass,,No,,0,Q1 2013,74,,,,No issues found
+RC125,Compliance,United,IT Security,CTRL-042,Expense Authorization,Lucy Wanjiku,2014-08-13,Pass,,No,,0,Q3 2014,61,,,,Follow-up scheduled
+RC126,Compliance,States,Operational,CTRL-076,Access Review,Ali Hassan,2013-03-06,Pass,,No,,0,Q1 2013,55,,,,Follow-up scheduled
+RC127,Compliance,of,IT Security,CTRL-022,Payroll Validation,Peter Otieno,2013-06-18,Fail,Low,Yes,Closed,5,Q2 2013,37,2013-07-24,Grace Mwangi,99,Follow-up scheduled
+RC128,Finance,America,IT Security,CTRL-011,Vendor Approval Process,John Doe,2013-07-03,Pass,,No,,0,Q3 2013,95,,,,No issues found
+RC129,Procurement,France,IT Security,CTRL-089,Access Review,Jane Smith,2013-05-27,Fail,High,Yes,In Progress,52,Q2 2013,50,2013-08-25,David Njoroge,78,Need system update
+RC130,Finance,Mexico,Strategic,CTRL-024,AML Monitoring,Peter Otieno,2013-04-01,Fail,Medium,Yes,In Progress,0,Q2 2013,91,2013-05-16,David Njoroge,15,Control design effective
+RC131,Finance,Germany,Strategic,CTRL-047,Fraud Risk Assessment,Peter Otieno,2013-08-13,Fail,High,Yes,Closed,26,Q3 2013,55,2013-09-15,David Njoroge,14,Follow-up scheduled
+RC132,Legal,Germany,IT Security,CTRL-064,Access Review,Jane Smith,2014-11-18,Pass,,No,,0,Q4 2014,26,,,,Need system update
+RC133,IT,United,Compliance,CTRL-027,Procurement Policy Adherence,Ali Hassan,2013-12-09,Fail,Low,Yes,Open,94,Q4 2013,26,2014-03-08,David Njoroge,20,Awaiting vendor response
+RC134,Procurement,States,Strategic,CTRL-015,Expense Authorization,Jane Smith,2014-04-01,Fail,Medium,Yes,Open,95,Q2 2014,61,2014-05-15,Mary Achieng,41,Follow-up scheduled
+RC135,Finance,of,Financial,CTRL-095,Procurement Policy Adherence,Jane Smith,2014-01-20,Pass,,No,,0,Q1 2014,29,,,,Pending management approval
+RC136,Operations,America,IT Security,CTRL-007,Procurement Policy Adherence,Jane Smith,2013-08-10,Fail,Low,Yes,In Progress,47,Q3 2013,37,2013-10-08,David Njoroge,80,No issues found
+RC137,IT,France,Financial,CTRL-043,Access Review,John Doe,2014-12-10,Pass,,No,,0,Q4 2014,55,,,,Follow-up scheduled
+RC138,Finance,France,IT Security,CTRL-059,Procurement Policy Adherence,Jane Smith,2013-12-18,Pass,,No,,0,Q4 2013,57,,,,Control design effective
+RC139,HR,Mexico,Strategic,CTRL-116,Access Review,Peter Otieno,2014-07-21,Pass,,No,,0,Q3 2014,31,,,,Pending management approval
+RC140,Compliance,Canada,Strategic,CTRL-063,Data Backup Verification,Peter Otieno,2014-04-30,Fail,Medium,Yes,Open,93,Q2 2014,74,2014-07-16,David Njoroge,31,No issues found
+RC141,Procurement,United,Strategic,CTRL-029,Physical Asset Protection,Jane Smith,2014-08-11,Pass,,No,,0,Q3 2014,73,,,,Awaiting vendor response
+RC142,Finance,States,IT Security,CTRL-094,Fraud Risk Assessment,John Doe,2014-03-12,Fail,Medium,Yes,Closed,105,Q1 2014,32,2014-05-09,Grace Mwangi,30,Awaiting vendor response
+RC143,Operations,of,Operational,CTRL-089,Procurement Policy Adherence,Jane Smith,2013-05-16,Fail,Medium,Yes,Open,82,Q2 2013,31,2013-06-16,Grace Mwangi,85,No issues found
+RC144,HR,America,IT Security,CTRL-110,Physical Asset Protection,Lucy Wanjiku,2014-08-21,Pass,,No,,0,Q3 2014,78,,,,Pending management approval
+RC145,Compliance,Canada,Financial,CTRL-112,Procurement Policy Adherence,Jane Smith,2014-01-15,Fail,High,Yes,Closed,0,Q1 2014,29,2014-03-10,Ali Hassan,67,Awaiting vendor response
+RC146,IT,Germany,IT Security,CTRL-097,Incident Response,Lucy Wanjiku,2014-09-20,Pass,,No,,0,Q3 2014,30,,,,Control design effective
+RC147,IT,Canada,Operational,CTRL-066,Payroll Validation,John Doe,2013-04-24,Fail,Medium,Yes,In Progress,79,Q2 2013,25,2013-06-16,Ali Hassan,22,Need system update
+RC148,Operations,United,Operational,CTRL-072,Data Backup Verification,Jane Smith,2013-12-09,Pass,,No,,0,Q4 2013,89,,,,Awaiting vendor response
+RC149,Legal,States,IT Security,CTRL-095,Physical Asset Protection,Lucy Wanjiku,2013-08-03,Pass,,No,,0,Q3 2013,61,,,,No issues found
+RC150,IT,of,Strategic,CTRL-088,Procurement Policy Adherence,Ali Hassan,2013-02-25,Pass,,No,,0,Q1 2013,67,,,,No issues found
+RC151,Procurement,America,IT Security,CTRL-065,Fraud Risk Assessment,John Doe,2014-04-27,Fail,Medium,Yes,Closed,47,Q2 2014,28,2014-06-08,Grace Mwangi,11,Awaiting vendor response
+RC152,Procurement,France,Financial,CTRL-037,Expense Authorization,John Doe,2013-06-18,Fail,Low,Yes,Closed,18,Q2 2013,83,2013-07-27,David Njoroge,66,Need system update
+RC153,Finance,Germany,Compliance,CTRL-054,Fraud Risk Assessment,Jane Smith,2014-05-01,Fail,Medium,Yes,In Progress,94,Q2 2014,22,2014-06-18,David Njoroge,8,Awaiting vendor response
+RC154,Compliance,Mexico,Financial,CTRL-107,Fraud Risk Assessment,Lucy Wanjiku,2013-12-10,Fail,High,Yes,In Progress,83,Q4 2013,61,2014-02-09,Grace Mwangi,58,No issues found
+RC155,Operations,Mexico,Financial,CTRL-115,Incident Response,Jane Smith,2013-09-24,Pass,,No,,0,Q3 2013,81,,,,No issues found
+RC156,IT,France,Operational,CTRL-019,Payroll Validation,Ali Hassan,2014-04-12,Pass,,No,,0,Q2 2014,40,,,,Need system update
+RC157,Operations,United,Compliance,CTRL-024,Access Review,Lucy Wanjiku,2014-12-11,Pass,,No,,0,Q4 2014,40,,,,Follow-up scheduled
+RC158,Finance,States,Operational,CTRL-041,Physical Asset Protection,Jane Smith,2014-03-28,Fail,Medium,Yes,Open,26,Q1 2014,91,2014-06-11,Mary Achieng,85,No issues found
+RC159,IT,of,Financial,CTRL-048,AML Monitoring,Peter Otieno,2013-06-16,Fail,Low,Yes,Open,51,Q2 2013,83,2013-09-03,David Njoroge,58,No issues found
+RC160,HR,America,Operational,CTRL-095,Fraud Risk Assessment,Peter Otieno,2013-12-06,Fail,Medium,Yes,In Progress,120,Q4 2013,93,2014-02-16,David Njoroge,72,Need system update
+RC161,Procurement,France,Compliance,CTRL-089,Expense Authorization,Lucy Wanjiku,2014-05-06,Pass,,No,,0,Q2 2014,37,,,,Need system update
+RC162,Operations,Canada,Operational,CTRL-040,Vendor Approval Process,Grace Mwangi,2014-09-25,Pass,,No,,0,Q3 2014,77,,,,No issues found
+RC163,Finance,Canada,Compliance,CTRL-008,Physical Asset Protection,Lucy Wanjiku,2013-07-19,Pass,,No,,0,Q3 2013,55,,,,Follow-up scheduled
+RC164,Finance,Germany,Operational,CTRL-069,AML Monitoring,Lucy Wanjiku,2014-11-19,Pass,,No,,0,Q4 2014,85,,,,Pending management approval
+RC165,HR,France,IT Security,CTRL-041,Physical Asset Protection,Peter Otieno,2014-06-08,Pass,,No,,0,Q2 2014,66,,,,Pending management approval
+RC166,HR,Canada,IT Security,CTRL-048,Procurement Policy Adherence,Ali Hassan,2013-01-13,Fail,Medium,Yes,In Progress,39,Q1 2013,77,2013-04-08,Mary Achieng,27,Need system update
+RC167,Procurement,United,IT Security,CTRL-103,AML Monitoring,Ali Hassan,2013-06-17,Fail,High,Yes,In Progress,17,Q2 2013,95,2013-08-24,Mary Achieng,18,Follow-up scheduled
+RC168,IT,States,IT Security,CTRL-112,Fraud Risk Assessment,Ali Hassan,2013-03-09,Fail,Low,Yes,Open,52,Q1 2013,54,2013-05-04,David Njoroge,71,Pending management approval
+RC169,Legal,of,Strategic,CTRL-097,Access Review,Jane Smith,2013-07-10,Fail,Medium,Yes,Closed,62,Q3 2013,25,2013-09-30,Ali Hassan,74,No issues found
+RC170,Procurement,America,Strategic,CTRL-095,AML Monitoring,Jane Smith,2013-01-28,Pass,,No,,0,Q1 2013,39,,,,No issues found
+RC171,IT,United,IT Security,CTRL-016,Incident Response,Grace Mwangi,2013-07-03,Fail,High,Yes,Closed,31,Q3 2013,23,2013-08-09,Ali Hassan,63,Awaiting vendor response
+RC172,Operations,States,Compliance,CTRL-075,AML Monitoring,Peter Otieno,2014-03-23,Fail,High,Yes,Closed,60,Q1 2014,35,2014-05-15,Mary Achieng,33,Follow-up scheduled
+RC173,Operations,of,Operational,CTRL-019,Payroll Validation,Grace Mwangi,2014-12-11,Pass,,No,,0,Q4 2014,65,,,,Follow-up scheduled
+RC174,Finance,America,Compliance,CTRL-047,Procurement Policy Adherence,Lucy Wanjiku,2013-12-31,Pass,,No,,0,Q4 2013,57,,,,No issues found
+RC175,Operations,Mexico,Operational,CTRL-066,Data Backup Verification,Lucy Wanjiku,2013-07-07,Pass,,No,,0,Q3 2013,41,,,,Control design effective
+RC176,IT,Mexico,Compliance,CTRL-106,Incident Response,Ali Hassan,2014-12-03,Fail,Low,Yes,Closed,74,Q4 2014,65,2015-02-23,David Njoroge,1,Follow-up scheduled
+RC177,Operations,Canada,Compliance,CTRL-048,AML Monitoring,Grace Mwangi,2013-12-15,Pass,,No,,0,Q4 2013,33,,,,Follow-up scheduled
+RC178,HR,France,Strategic,CTRL-029,Data Backup Verification,Peter Otieno,2014-09-21,Pass,,No,,0,Q3 2014,73,,,,Pending management approval
+RC179,Finance,Germany,Operational,CTRL-105,Access Review,John Doe,2014-05-07,Fail,Medium,Yes,Closed,46,Q2 2014,37,2014-07-28,Grace Mwangi,76,Control design effective
+RC180,Compliance,United,Compliance,CTRL-023,Incident Response,John Doe,2013-05-02,Pass,,No,,0,Q2 2013,36,,,,Need system update
+RC181,HR,States,Financial,CTRL-040,Access Review,Jane Smith,2013-05-14,Pass,,No,,0,Q2 2013,74,,,,Need system update
+RC182,Compliance,of,Operational,CTRL-010,Vendor Approval Process,Grace Mwangi,2014-03-18,Pass,,No,,0,Q1 2014,45,,,,Awaiting vendor response
+RC183,Finance,America,Strategic,CTRL-076,Vendor Approval Process,Grace Mwangi,2013-05-02,Fail,Low,Yes,Open,38,Q2 2013,21,2013-07-19,Mary Achieng,100,Awaiting vendor response
+RC184,Operations,Mexico,Financial,CTRL-076,Data Backup Verification,Jane Smith,2014-11-18,Fail,Low,Yes,Open,18,Q4 2014,55,2015-02-16,Ali Hassan,45,Follow-up scheduled
+RC185,Compliance,Canada,Strategic,CTRL-100,Physical Asset Protection,Jane Smith,2014-06-02,Pass,,No,,0,Q2 2014,32,,,,Control design effective
+RC186,Compliance,Germany,Operational,CTRL-068,Data Backup Verification,Lucy Wanjiku,2013-07-16,Fail,Low,Yes,Closed,0,Q3 2013,32,2013-10-13,David Njoroge,64,Need system update
+RC187,Procurement,Mexico,Compliance,CTRL-090,Physical Asset Protection,Jane Smith,2014-03-27,Pass,,No,,0,Q1 2014,43,,,,No issues found
+RC188,Procurement,France,IT Security,CTRL-028,Fraud Risk Assessment,Jane Smith,2014-02-22,Pass,,No,,0,Q1 2014,60,,,,Awaiting vendor response
+RC189,Procurement,Canada,Operational,CTRL-067,Access Review,Grace Mwangi,2014-01-05,Fail,High,Yes,Closed,5,Q1 2014,30,2014-02-24,Grace Mwangi,14,Pending management approval
+RC190,IT,Canada,IT Security,CTRL-077,Incident Response,Lucy Wanjiku,2014-03-31,Pass,,No,,0,Q1 2014,90,,,,Pending management approval
+RC191,IT,Canada,IT Security,CTRL-025,Expense Authorization,Grace Mwangi,2014-11-27,Fail,Low,Yes,Open,86,Q4 2014,82,2015-02-08,Mary Achieng,50,Pending management approval
+RC192,Operations,United,Operational,CTRL-016,Access Review,Grace Mwangi,2014-02-15,Pass,,No,,0,Q1 2014,41,,,,Awaiting vendor response
+RC193,IT,States,Financial,CTRL-044,Data Backup Verification,Peter Otieno,2014-02-18,Pass,,No,,0,Q1 2014,49,,,,Pending management approval
+RC194,Legal,of,IT Security,CTRL-036,Physical Asset Protection,Peter Otieno,2013-10-07,Fail,Medium,Yes,In Progress,85,Q4 2013,71,2013-12-07,Ali Hassan,18,Pending management approval
+RC195,Finance,America,Operational,CTRL-033,AML Monitoring,Grace Mwangi,2013-08-25,Pass,,No,,0,Q3 2013,23,,,,Awaiting vendor response
+RC196,Legal,United,Operational,CTRL-107,Expense Authorization,Grace Mwangi,2014-11-26,Pass,,No,,0,Q4 2014,42,,,,Pending management approval
+RC197,Operations,States,Compliance,CTRL-020,Incident Response,Peter Otieno,2014-10-01,Pass,,No,,0,Q4 2014,29,,,,Need system update
+RC198,Compliance,of,Strategic,CTRL-099,AML Monitoring,Grace Mwangi,2013-07-26,Fail,High,Yes,In Progress,62,Q3 2013,84,2013-09-10,Ali Hassan,69,Control design effective
+RC199,Finance,America,Operational,CTRL-056,Expense Authorization,Grace Mwangi,2014-04-06,Fail,Medium,Yes,In Progress,58,Q2 2014,24,2014-05-08,David Njoroge,71,Need system update
+RC200,Compliance,France,Compliance,CTRL-114,Access Review,Grace Mwangi,2014-03-18,Pass,,No,,0,Q1 2014,59,,,,Need system update
+RC201,Procurement,Mexico,IT Security,CTRL-098,Expense Authorization,Peter Otieno,2014-11-23,Fail,High,Yes,Closed,87,Q4 2014,89,2015-01-28,Grace Mwangi,60,Control design effective
+RC202,Compliance,United,Financial,CTRL-065,Vendor Approval Process,Grace Mwangi,2013-09-27,Fail,High,Yes,In Progress,78,Q3 2013,65,2013-12-15,Ali Hassan,41,Awaiting vendor response
+RC203,Finance,States,Strategic,CTRL-006,Access Review,Ali Hassan,2013-12-24,Pass,,No,,0,Q4 2013,63,,,,Pending management approval
+RC204,Finance,of,IT Security,CTRL-045,Payroll Validation,Grace Mwangi,2013-12-26,Pass,,No,,0,Q4 2013,51,,,,Follow-up scheduled
+RC205,HR,America,Compliance,CTRL-076,Expense Authorization,Lucy Wanjiku,2013-03-09,Fail,Low,Yes,In Progress,21,Q1 2013,22,2013-05-12,Ali Hassan,4,Pending management approval
+RC206,Legal,Germany,IT Security,CTRL-073,Fraud Risk Assessment,Grace Mwangi,2013-10-01,Pass,,No,,0,Q4 2013,80,,,,Control design effective
+RC207,Finance,Germany,Compliance,CTRL-049,Physical Asset Protection,Grace Mwangi,2013-11-27,Pass,,No,,0,Q4 2013,82,,,,Awaiting vendor response
+RC208,Legal,Germany,Financial,CTRL-044,AML Monitoring,Peter Otieno,2014-11-15,Fail,Low,Yes,Closed,38,Q4 2014,66,2015-01-11,David Njoroge,63,Need system update
+RC209,Compliance,Mexico,Operational,CTRL-108,Fraud Risk Assessment,Jane Smith,2013-10-22,Fail,Low,Yes,In Progress,73,Q4 2013,71,2014-01-11,David Njoroge,79,Need system update
+RC210,Finance,France,Strategic,CTRL-013,Physical Asset Protection,Ali Hassan,2013-10-07,Pass,,No,,0,Q4 2013,92,,,,Control design effective
+RC211,Procurement,Mexico,IT Security,CTRL-027,Payroll Validation,John Doe,2014-10-30,Fail,High,Yes,In Progress,55,Q4 2014,89,2014-12-19,David Njoroge,53,Pending management approval
+RC212,IT,Mexico,Strategic,CTRL-066,AML Monitoring,Lucy Wanjiku,2014-07-15,Pass,,No,,0,Q3 2014,22,,,,Need system update
+RC213,Legal,Mexico,Strategic,CTRL-111,Access Review,Peter Otieno,2014-05-27,Pass,,No,,0,Q2 2014,79,,,,No issues found
+RC214,Legal,Germany,Strategic,CTRL-104,Physical Asset Protection,Grace Mwangi,2014-08-03,Pass,,No,,0,Q3 2014,86,,,,Follow-up scheduled
+RC215,IT,Germany,IT Security,CTRL-019,Data Backup Verification,Jane Smith,2014-12-03,Fail,Medium,Yes,In Progress,40,Q4 2014,28,2015-02-11,David Njoroge,52,No issues found
+RC216,Compliance,Canada,Compliance,CTRL-083,Access Review,Ali Hassan,2014-12-05,Pass,,No,,0,Q4 2014,71,,,,Follow-up scheduled
+RC217,Finance,United,Financial,CTRL-025,Vendor Approval Process,Jane Smith,2013-11-14,Fail,Medium,Yes,Closed,55,Q4 2013,74,2014-01-24,Mary Achieng,25,Follow-up scheduled
+RC218,IT,States,Financial,CTRL-004,Incident Response,Ali Hassan,2014-11-06,Pass,,No,,0,Q4 2014,25,,,,Need system update
+RC219,Procurement,of,Operational,CTRL-008,Expense Authorization,Ali Hassan,2014-09-09,Fail,Low,Yes,In Progress,114,Q3 2014,66,2014-11-20,Mary Achieng,50,Need system update
+RC220,Compliance,America,Financial,CTRL-031,Expense Authorization,Peter Otieno,2014-05-28,Pass,,No,,0,Q2 2014,86,,,,Need system update
+RC221,Compliance,Mexico,Strategic,CTRL-100,Fraud Risk Assessment,Ali Hassan,2014-05-24,Pass,,No,,0,Q2 2014,50,,,,Control design effective
+RC222,Finance,Germany,Compliance,CTRL-043,Physical Asset Protection,Lucy Wanjiku,2014-02-04,Pass,,No,,0,Q1 2014,74,,,,Follow-up scheduled
+RC223,HR,Mexico,Operational,CTRL-023,Data Backup Verification,Ali Hassan,2014-03-27,Fail,Medium,Yes,Closed,7,Q1 2014,82,2014-05-30,Ali Hassan,89,Awaiting vendor response
+RC224,IT,Germany,Strategic,CTRL-055,AML Monitoring,Lucy Wanjiku,2013-09-10,Fail,Low,Yes,In Progress,60,Q3 2013,67,2013-12-01,Ali Hassan,2,Need system update
+RC225,Operations,Germany,Operational,CTRL-108,Vendor Approval Process,Lucy Wanjiku,2014-11-19,Pass,,No,,0,Q4 2014,52,,,,Control design effective
+RC226,Procurement,United,Compliance,CTRL-082,Payroll Validation,Lucy Wanjiku,2013-05-05,Pass,,No,,0,Q2 2013,76,,,,Pending management approval
+RC227,Finance,States,IT Security,CTRL-119,Incident Response,Ali Hassan,2013-04-03,Pass,,No,,0,Q2 2013,58,,,,Follow-up scheduled
+RC228,Compliance,of,Financial,CTRL-118,AML Monitoring,Lucy Wanjiku,2013-11-21,Fail,Low,Yes,In Progress,110,Q4 2013,30,2014-02-11,Grace Mwangi,60,Need system update
+RC229,Procurement,America,Compliance,CTRL-092,Procurement Policy Adherence,John Doe,2013-06-14,Fail,High,Yes,Open,45,Q2 2013,73,2013-08-21,Ali Hassan,58,Need system update
+RC230,Finance,France,Operational,CTRL-083,Access Review,Lucy Wanjiku,2014-03-31,Pass,,No,,0,Q1 2014,20,,,,Pending management approval
+RC231,HR,Canada,Compliance,CTRL-041,Physical Asset Protection,John Doe,2013-04-24,Pass,,No,,0,Q2 2013,51,,,,Control design effective
+RC232,Legal,France,Financial,CTRL-109,Physical Asset Protection,Lucy Wanjiku,2014-02-25,Fail,Medium,Yes,In Progress,111,Q1 2014,37,2014-04-12,David Njoroge,87,Control design effective
+RC233,Compliance,Germany,Compliance,CTRL-103,Incident Response,Jane Smith,2013-03-28,Fail,Medium,Yes,Open,50,Q1 2013,68,2013-06-26,David Njoroge,2,Awaiting vendor response
+RC234,Operations,Germany,Strategic,CTRL-081,Data Backup Verification,John Doe,2014-04-19,Pass,,No,,0,Q2 2014,53,,,,Need system update
+RC235,Compliance,United,Financial,CTRL-007,Procurement Policy Adherence,Peter Otieno,2014-03-16,Fail,Low,Yes,Open,47,Q1 2014,41,2014-06-14,Mary Achieng,1,Need system update
+RC236,Operations,States,IT Security,CTRL-099,AML Monitoring,Lucy Wanjiku,2014-05-22,Pass,,No,,0,Q2 2014,48,,,,Need system update
+RC237,HR,of,Financial,CTRL-111,Incident Response,Ali Hassan,2014-05-22,Fail,Low,Yes,In Progress,109,Q2 2014,46,2014-07-29,David Njoroge,36,Need system update
+RC238,Legal,America,Financial,CTRL-054,Access Review,Grace Mwangi,2013-05-30,Pass,,No,,0,Q2 2013,57,,,,No issues found
+RC239,HR,Canada,Strategic,CTRL-058,Data Backup Verification,Ali Hassan,2014-08-20,Fail,Low,Yes,Open,60,Q3 2014,37,2014-11-13,Ali Hassan,88,Pending management approval
+RC240,Legal,Germany,Financial,CTRL-092,Procurement Policy Adherence,Lucy Wanjiku,2014-03-10,Fail,Low,Yes,Open,71,Q1 2014,27,2014-04-12,Ali Hassan,30,Pending management approval
+RC241,IT,France,Strategic,CTRL-086,Physical Asset Protection,Lucy Wanjiku,2013-02-16,Pass,,No,,0,Q1 2013,52,,,,Control design effective
+RC242,Operations,France,IT Security,CTRL-039,Procurement Policy Adherence,Lucy Wanjiku,2014-01-15,Pass,,No,,0,Q1 2014,91,,,,Awaiting vendor response
+RC243,Operations,Germany,Financial,CTRL-034,Access Review,Peter Otieno,2014-05-20,Fail,Medium,Yes,Open,11,Q2 2014,60,2014-08-03,Grace Mwangi,18,No issues found
+RC244,Finance,France,Compliance,CTRL-006,Access Review,Grace Mwangi,2013-10-15,Fail,Medium,Yes,In Progress,115,Q4 2013,53,2013-12-23,Ali Hassan,66,No issues found
+RC245,Procurement,Germany,Financial,CTRL-041,AML Monitoring,Jane Smith,2014-07-24,Fail,Low,Yes,Open,19,Q3 2014,26,2014-09-06,David Njoroge,4,Pending management approval
+RC246,IT,France,Financial,CTRL-091,AML Monitoring,Grace Mwangi,2013-04-29,Fail,Low,Yes,In Progress,45,Q2 2013,91,2013-06-29,Grace Mwangi,63,Awaiting vendor response
+RC247,Compliance,Canada,Financial,CTRL-016,Payroll Validation,John Doe,2013-07-28,Fail,Low,Yes,Open,95,Q3 2013,85,2013-10-18,Ali Hassan,72,Need system update
+RC248,Operations,France,Financial,CTRL-075,Vendor Approval Process,Peter Otieno,2014-08-08,Pass,,No,,0,Q3 2014,73,,,,Awaiting vendor response
+RC249,HR,Germany,IT Security,CTRL-087,Expense Authorization,Ali Hassan,2013-01-27,Fail,High,Yes,Closed,15,Q1 2013,70,2013-03-21,Mary Achieng,41,Follow-up scheduled
+RC250,Finance,Germany,Operational,CTRL-059,AML Monitoring,Grace Mwangi,2014-10-06,Fail,High,Yes,Closed,0,Q4 2014,62,2014-11-07,Grace Mwangi,41,Need system update
+RC251,Legal,United,Strategic,CTRL-017,Data Backup Verification,John Doe,2014-10-22,Fail,Medium,Yes,Open,95,Q4 2014,29,2014-12-26,Grace Mwangi,11,Pending management approval
+RC252,IT,States,Financial,CTRL-031,Procurement Policy Adherence,John Doe,2013-01-22,Pass,,No,,0,Q1 2013,40,,,,Pending management approval
+RC253,Compliance,of,IT Security,CTRL-037,Access Review,John Doe,2013-11-02,Fail,Medium,Yes,Closed,103,Q4 2013,59,2014-01-28,David Njoroge,45,Need system update
+RC254,Finance,America,Compliance,CTRL-066,Data Backup Verification,Grace Mwangi,2014-04-02,Fail,Medium,Yes,In Progress,72,Q2 2014,74,2014-05-07,Grace Mwangi,47,Control design effective
+RC255,HR,Canada,IT Security,CTRL-081,Procurement Policy Adherence,John Doe,2013-02-11,Fail,Medium,Yes,Closed,28,Q1 2013,39,2013-05-11,Grace Mwangi,67,Need system update
+RC256,Legal,Germany,Strategic,CTRL-011,Incident Response,Grace Mwangi,2014-03-24,Pass,,No,,0,Q1 2014,81,,,,No issues found
+RC257,HR,France,Financial,CTRL-088,Incident Response,Jane Smith,2014-06-20,Fail,Medium,Yes,Closed,6,Q2 2014,90,2014-07-24,Mary Achieng,65,Awaiting vendor response
+RC258,Operations,Germany,IT Security,CTRL-053,Expense Authorization,Grace Mwangi,2014-11-08,Fail,Medium,Yes,In Progress,74,Q4 2014,30,2015-01-26,Mary Achieng,14,Need system update
+RC259,Legal,Canada,IT Security,CTRL-023,Access Review,Grace Mwangi,2013-02-16,Pass,,No,,0,Q1 2013,73,,,,Need system update
+RC260,IT,United,Compliance,CTRL-076,AML Monitoring,Lucy Wanjiku,2014-04-06,Fail,Medium,Yes,Open,27,Q2 2014,43,2014-05-11,Ali Hassan,86,Awaiting vendor response
+RC261,Procurement,States,Strategic,CTRL-003,Vendor Approval Process,Grace Mwangi,2013-04-30,Pass,,No,,0,Q2 2013,41,,,,Need system update
+RC262,Procurement,of,IT Security,CTRL-089,Procurement Policy Adherence,Lucy Wanjiku,2014-09-09,Fail,Medium,Yes,Closed,104,Q3 2014,66,2014-11-22,Grace Mwangi,38,Awaiting vendor response
+RC263,HR,America,Financial,CTRL-002,Data Backup Verification,John Doe,2013-01-17,Pass,,No,,0,Q1 2013,23,,,,Follow-up scheduled
+RC264,Procurement,Mexico,Financial,CTRL-084,Data Backup Verification,Grace Mwangi,2014-10-04,Pass,,No,,0,Q4 2014,31,,,,No issues found
+RC265,Compliance,Germany,IT Security,CTRL-019,AML Monitoring,Grace Mwangi,2013-01-23,Pass,,No,,0,Q1 2013,41,,,,Follow-up scheduled
+RC266,Legal,Canada,IT Security,CTRL-063,AML Monitoring,John Doe,2014-04-06,Pass,,No,,0,Q2 2014,45,,,,No issues found
+RC267,Operations,Mexico,IT Security,CTRL-007,Payroll Validation,John Doe,2013-04-16,Fail,Medium,Yes,In Progress,94,Q2 2013,94,2013-06-23,Ali Hassan,4,Pending management approval
+RC268,Procurement,Germany,IT Security,CTRL-066,Physical Asset Protection,Lucy Wanjiku,2014-09-19,Fail,Low,Yes,Closed,7,Q3 2014,87,2014-10-20,Grace Mwangi,73,No issues found
+RC269,Operations,Canada,Operational,CTRL-035,Procurement Policy Adherence,Grace Mwangi,2013-04-30,Fail,High,Yes,Closed,44,Q2 2013,77,2013-07-13,Grace Mwangi,2,Follow-up scheduled
+RC270,IT,Mexico,Financial,CTRL-061,Payroll Validation,Grace Mwangi,2013-08-26,Pass,,No,,0,Q3 2013,95,,,,Need system update
+RC271,IT,Canada,Strategic,CTRL-110,AML Monitoring,Jane Smith,2013-10-28,Fail,Medium,Yes,Closed,83,Q4 2013,66,2014-01-16,Grace Mwangi,20,Control design effective
+RC272,HR,Germany,Compliance,CTRL-089,Expense Authorization,Lucy Wanjiku,2014-05-10,Pass,,No,,0,Q2 2014,42,,,,Follow-up scheduled
+RC273,HR,Mexico,Strategic,CTRL-063,Expense Authorization,Grace Mwangi,2014-05-21,Fail,Low,Yes,Open,71,Q2 2014,26,2014-06-21,Ali Hassan,33,No issues found
+RC274,Legal,Mexico,Financial,CTRL-023,Fraud Risk Assessment,John Doe,2013-03-07,Fail,Medium,Yes,Open,79,Q1 2013,49,2013-04-13,David Njoroge,62,No issues found
+RC275,IT,France,Compliance,CTRL-099,Vendor Approval Process,Peter Otieno,2013-10-01,Pass,,No,,0,Q4 2013,85,,,,Control design effective
+RC276,Legal,United,Operational,CTRL-091,Vendor Approval Process,Grace Mwangi,2014-04-14,Pass,,No,,0,Q2 2014,33,,,,Control design effective
+RC277,Operations,States,Operational,CTRL-106,Fraud Risk Assessment,John Doe,2014-06-04,Pass,,No,,0,Q2 2014,41,,,,Need system update
+RC278,Finance,of,Financial,CTRL-117,Payroll Validation,Jane Smith,2013-10-27,Fail,High,Yes,In Progress,93,Q4 2013,32,2013-12-05,Ali Hassan,42,Follow-up scheduled
+RC279,Finance,America,Financial,CTRL-057,Procurement Policy Adherence,John Doe,2013-09-09,Fail,Medium,Yes,In Progress,64,Q3 2013,41,2013-10-14,Ali Hassan,47,Need system update
+RC280,Compliance,Canada,IT Security,CTRL-047,Data Backup Verification,Jane Smith,2014-06-27,Fail,Low,Yes,Open,102,Q2 2014,74,2014-08-22,Grace Mwangi,58,Control design effective
+RC281,Compliance,Germany,Compliance,CTRL-004,AML Monitoring,Jane Smith,2013-01-11,Pass,,No,,0,Q1 2013,30,,,,No issues found
+RC282,IT,United,IT Security,CTRL-099,Access Review,Grace Mwangi,2013-03-04,Fail,Low,Yes,Closed,118,Q1 2013,39,2013-05-30,Mary Achieng,80,Need system update
+RC283,Compliance,States,Strategic,CTRL-038,Procurement Policy Adherence,Grace Mwangi,2014-11-29,Fail,High,Yes,Closed,40,Q4 2014,64,2014-12-29,Ali Hassan,67,Control design effective
+RC284,HR,of,IT Security,CTRL-058,Data Backup Verification,Peter Otieno,2014-10-02,Fail,High,Yes,In Progress,113,Q4 2014,71,2014-12-20,David Njoroge,38,Awaiting vendor response
+RC285,Finance,America,Strategic,CTRL-043,Procurement Policy Adherence,Lucy Wanjiku,2013-05-10,Fail,Low,Yes,Open,65,Q2 2013,90,2013-06-28,Ali Hassan,96,Need system update
+RC286,HR,Canada,Operational,CTRL-004,Fraud Risk Assessment,Peter Otieno,2013-09-22,Pass,,No,,0,Q3 2013,58,,,,Need system update
+RC287,Procurement,Germany,Strategic,CTRL-015,Vendor Approval Process,Ali Hassan,2013-09-23,Fail,Low,Yes,Open,96,Q3 2013,35,2013-11-20,Ali Hassan,73,Need system update
+RC288,Finance,Canada,IT Security,CTRL-044,Data Backup Verification,Lucy Wanjiku,2014-08-19,Pass,,No,,0,Q3 2014,64,,,,No issues found
+RC289,IT,Germany,Strategic,CTRL-087,Access Review,Lucy Wanjiku,2014-01-22,Pass,,No,,0,Q1 2014,33,,,,No issues found
+RC290,Operations,Mexico,Strategic,CTRL-025,Payroll Validation,Grace Mwangi,2013-04-11,Pass,,No,,0,Q2 2013,74,,,,Pending management approval
+RC291,Finance,Canada,Operational,CTRL-008,Procurement Policy Adherence,Jane Smith,2014-05-03,Pass,,No,,0,Q2 2014,77,,,,Awaiting vendor response
+RC292,IT,Germany,Strategic,CTRL-052,Physical Asset Protection,Peter Otieno,2014-06-16,Fail,Medium,Yes,Closed,63,Q2 2014,74,2014-08-13,Grace Mwangi,93,Pending management approval
+RC293,Compliance,Germany,Financial,CTRL-019,Fraud Risk Assessment,Jane Smith,2014-05-12,Fail,Low,Yes,Closed,65,Q2 2014,87,2014-06-18,David Njoroge,58,Pending management approval
+RC294,Finance,United,Financial,CTRL-072,Payroll Validation,John Doe,2014-09-09,Fail,Low,Yes,Open,47,Q3 2014,93,2014-10-27,Mary Achieng,66,Follow-up scheduled
+RC295,Finance,States,Compliance,CTRL-040,Payroll Validation,Ali Hassan,2013-10-29,Fail,Low,Yes,Open,18,Q4 2013,95,2013-12-24,Mary Achieng,39,No issues found
+RC296,HR,of,Financial,CTRL-105,AML Monitoring,John Doe,2013-05-06,Fail,Low,Yes,Open,53,Q2 2013,81,2013-07-11,Ali Hassan,72,Pending management approval
+RC297,IT,America,IT Security,CTRL-061,Physical Asset Protection,Jane Smith,2013-05-22,Fail,Medium,Yes,Closed,57,Q2 2013,39,2013-08-15,Ali Hassan,11,Control design effective
+RC298,Legal,United,Strategic,CTRL-053,Procurement Policy Adherence,Jane Smith,2014-02-09,Fail,High,Yes,Open,85,Q1 2014,76,2014-04-27,Ali Hassan,82,Awaiting vendor response
+RC299,Compliance,States,Financial,CTRL-091,Vendor Approval Process,Peter Otieno,2014-10-08,Fail,High,Yes,Closed,15,Q4 2014,91,2014-11-12,David Njoroge,79,Control design effective
+RC300,Operations,of,Operational,CTRL-073,Fraud Risk Assessment,Jane Smith,2014-05-03,Pass,,No,,0,Q2 2014,35,,,,Need system update
+RC301,Operations,America,Financial,CTRL-003,Incident Response,Jane Smith,2013-09-09,Fail,Low,Yes,Closed,77,Q3 2013,61,2013-11-03,Mary Achieng,62,Awaiting vendor response
+RC302,IT,France,IT Security,CTRL-024,Procurement Policy Adherence,John Doe,2014-06-25,Fail,Medium,Yes,In Progress,11,Q2 2014,34,2014-07-31,David Njoroge,36,Follow-up scheduled
+RC303,HR,Canada,Compliance,CTRL-099,Expense Authorization,Jane Smith,2013-11-11,Fail,High,Yes,Open,7,Q4 2013,61,2013-12-22,Mary Achieng,91,Awaiting vendor response
+RC304,IT,Canada,IT Security,CTRL-013,Payroll Validation,Jane Smith,2014-02-27,Fail,Medium,Yes,In Progress,120,Q1 2014,35,2014-04-01,David Njoroge,30,Control design effective
+RC305,Operations,United,Financial,CTRL-064,Fraud Risk Assessment,Peter Otieno,2014-01-30,Pass,,No,,0,Q1 2014,54,,,,Awaiting vendor response
+RC306,IT,States,IT Security,CTRL-071,Procurement Policy Adherence,John Doe,2014-05-11,Pass,,No,,0,Q2 2014,72,,,,Need system update
+RC307,HR,of,Operational,CTRL-035,Fraud Risk Assessment,Peter Otieno,2014-11-23,Pass,,No,,0,Q4 2014,51,,,,Control design effective
+RC308,Legal,America,Financial,CTRL-039,Physical Asset Protection,Grace Mwangi,2014-04-02,Pass,,No,,0,Q2 2014,84,,,,Follow-up scheduled
+RC309,Compliance,United,Financial,CTRL-048,Fraud Risk Assessment,Jane Smith,2013-09-09,Fail,High,Yes,In Progress,5,Q3 2013,20,2013-11-30,Grace Mwangi,79,No issues found
+RC310,Legal,States,Financial,CTRL-001,Vendor Approval Process,Grace Mwangi,2013-10-07,Fail,High,Yes,In Progress,44,Q4 2013,47,2013-12-13,Ali Hassan,5,Follow-up scheduled
+RC311,Legal,of,Strategic,CTRL-073,Expense Authorization,Ali Hassan,2013-04-02,Fail,High,Yes,Open,106,Q2 2013,37,2013-06-17,Ali Hassan,55,Follow-up scheduled
+RC312,Operations,America,Strategic,CTRL-103,Payroll Validation,Lucy Wanjiku,2013-12-17,Fail,High,Yes,In Progress,34,Q4 2013,51,2014-02-27,Ali Hassan,43,Follow-up scheduled
+RC313,Procurement,Mexico,Strategic,CTRL-043,Vendor Approval Process,Lucy Wanjiku,2013-05-17,Pass,,No,,0,Q2 2013,80,,,,Awaiting vendor response
+RC314,Finance,United,Financial,CTRL-053,Fraud Risk Assessment,Lucy Wanjiku,2014-12-22,Fail,Medium,Yes,Closed,10,Q4 2014,29,2015-02-24,Mary Achieng,85,Pending management approval
+RC315,Legal,States,Operational,CTRL-046,Procurement Policy Adherence,Peter Otieno,2014-01-02,Fail,Low,Yes,Closed,1,Q1 2014,35,2014-03-02,Ali Hassan,24,Pending management approval
+RC316,Finance,of,Financial,CTRL-096,Vendor Approval Process,Ali Hassan,2014-11-28,Fail,Low,Yes,Open,104,Q4 2014,58,2015-02-17,David Njoroge,29,Pending management approval
+RC317,IT,America,Operational,CTRL-036,AML Monitoring,Lucy Wanjiku,2014-12-25,Pass,,No,,0,Q4 2014,20,,,,Follow-up scheduled
+RC318,Compliance,Mexico,IT Security,CTRL-015,Incident Response,Peter Otieno,2014-05-28,Fail,Low,Yes,Closed,24,Q2 2014,92,2014-08-09,David Njoroge,8,Control design effective
+RC319,HR,United,Operational,CTRL-017,Incident Response,Peter Otieno,2013-08-22,Fail,Low,Yes,Closed,2,Q3 2013,88,2013-10-30,Ali Hassan,87,Control design effective
+RC320,Procurement,States,Operational,CTRL-055,Vendor Approval Process,Ali Hassan,2014-03-19,Fail,Medium,Yes,Open,87,Q1 2014,86,2014-05-17,Grace Mwangi,46,Control design effective
+RC321,Compliance,of,Operational,CTRL-114,Data Backup Verification,John Doe,2013-10-12,Fail,High,Yes,In Progress,40,Q4 2013,20,2013-12-06,David Njoroge,42,Awaiting vendor response
+RC322,Operations,America,Operational,CTRL-095,Data Backup Verification,Lucy Wanjiku,2014-03-10,Pass,,No,,0,Q1 2014,51,,,,Follow-up scheduled
+RC323,HR,Canada,Compliance,CTRL-040,Expense Authorization,Lucy Wanjiku,2014-10-03,Pass,,No,,0,Q4 2014,23,,,,Pending management approval
+RC324,Procurement,France,Operational,CTRL-076,Payroll Validation,Ali Hassan,2013-09-11,Pass,,No,,0,Q3 2013,80,,,,Follow-up scheduled
+RC325,IT,France,Operational,CTRL-106,Payroll Validation,Peter Otieno,2013-08-31,Pass,,No,,0,Q3 2013,76,,,,Awaiting vendor response
+RC326,Legal,United,IT Security,CTRL-075,Expense Authorization,John Doe,2013-03-04,Pass,,No,,0,Q1 2013,68,,,,No issues found
+RC327,Compliance,States,Operational,CTRL-101,Access Review,John Doe,2014-03-29,Pass,,No,,0,Q1 2014,58,,,,Control design effective
+RC328,Legal,of,IT Security,CTRL-009,Expense Authorization,Lucy Wanjiku,2013-02-27,Pass,,No,,0,Q1 2013,57,,,,Pending management approval
+RC329,Procurement,America,Operational,CTRL-080,Procurement Policy Adherence,Jane Smith,2014-09-06,Pass,,No,,0,Q3 2014,78,,,,Pending management approval
+RC330,Procurement,France,IT Security,CTRL-113,Physical Asset Protection,Peter Otieno,2013-04-14,Fail,High,Yes,Closed,100,Q2 2013,23,2013-06-12,Ali Hassan,75,Follow-up scheduled
+RC331,Finance,Mexico,Operational,CTRL-002,Physical Asset Protection,Lucy Wanjiku,2013-03-11,Pass,,No,,0,Q1 2013,93,,,,Follow-up scheduled
+RC332,Legal,Mexico,Strategic,CTRL-033,Payroll Validation,Grace Mwangi,2014-05-08,Fail,Low,Yes,Open,17,Q2 2014,25,2014-06-10,David Njoroge,39,Control design effective
+RC333,Procurement,Mexico,Strategic,CTRL-084,Payroll Validation,Ali Hassan,2014-08-21,Pass,,No,,0,Q3 2014,38,,,,Pending management approval
+RC334,IT,Germany,Strategic,CTRL-044,Incident Response,Ali Hassan,2013-01-09,Pass,,No,,0,Q1 2013,27,,,,Follow-up scheduled
+RC335,Operations,United,Strategic,CTRL-110,Vendor Approval Process,Grace Mwangi,2013-12-19,Pass,,No,,0,Q4 2013,45,,,,Need system update
+RC336,HR,States,Operational,CTRL-044,Data Backup Verification,Lucy Wanjiku,2014-05-03,Fail,High,Yes,Closed,42,Q2 2014,94,2014-07-08,Ali Hassan,78,No issues found
+RC337,Procurement,of,Compliance,CTRL-021,Expense Authorization,Grace Mwangi,2013-02-13,Fail,Low,Yes,Open,81,Q1 2013,48,2013-04-28,David Njoroge,59,Control design effective
+RC338,HR,America,Financial,CTRL-062,Payroll Validation,Lucy Wanjiku,2014-01-20,Pass,,No,,0,Q1 2014,71,,,,Follow-up scheduled
+RC339,Compliance,Canada,Operational,CTRL-047,Vendor Approval Process,John Doe,2014-01-02,Pass,,No,,0,Q1 2014,91,,,,Awaiting vendor response
+RC340,HR,Germany,Compliance,CTRL-057,Data Backup Verification,Lucy Wanjiku,2014-08-23,Fail,Low,Yes,Open,25,Q3 2014,45,2014-10-10,David Njoroge,28,No issues found
+RC341,Legal,Germany,Financial,CTRL-044,Fraud Risk Assessment,Jane Smith,2013-07-02,Pass,,No,,0,Q3 2013,22,,,,Follow-up scheduled
+RC342,Compliance,Canada,Compliance,CTRL-117,Expense Authorization,John Doe,2014-11-25,Pass,,No,,0,Q4 2014,68,,,,Need system update
+RC343,Compliance,Mexico,Operational,CTRL-044,Data Backup Verification,Ali Hassan,2014-04-13,Pass,,No,,0,Q2 2014,67,,,,No issues found
+RC344,Legal,Canada,Financial,CTRL-068,Physical Asset Protection,Grace Mwangi,2014-12-30,Pass,,No,,0,Q4 2014,35,,,,Follow-up scheduled
+RC345,HR,Canada,Financial,CTRL-025,Fraud Risk Assessment,Grace Mwangi,2014-12-13,Fail,Medium,Yes,Closed,54,Q4 2014,51,2015-03-11,Mary Achieng,97,Control design effective
+RC346,Operations,Mexico,Financial,CTRL-110,Fraud Risk Assessment,Ali Hassan,2013-06-02,Fail,Low,Yes,Open,80,Q2 2013,55,2013-08-26,David Njoroge,65,Control design effective
+RC347,Procurement,Mexico,Financial,CTRL-094,Expense Authorization,Grace Mwangi,2014-11-11,Pass,,No,,0,Q4 2014,41,,,,Control design effective
+RC348,Procurement,Mexico,Strategic,CTRL-048,AML Monitoring,Peter Otieno,2014-04-21,Pass,,No,,0,Q2 2014,61,,,,Need system update
+RC349,IT,Germany,Strategic,CTRL-089,AML Monitoring,Lucy Wanjiku,2014-05-22,Fail,Medium,Yes,Closed,51,Q2 2014,94,2014-08-01,Mary Achieng,26,Follow-up scheduled
+RC350,HR,France,IT Security,CTRL-111,Data Backup Verification,Grace Mwangi,2013-08-12,Fail,Medium,Yes,In Progress,73,Q3 2013,40,2013-11-09,Ali Hassan,32,Control design effective
+RC351,Finance,Germany,Financial,CTRL-097,Expense Authorization,Ali Hassan,2014-04-01,Fail,Low,Yes,Closed,5,Q2 2014,79,2014-06-02,Ali Hassan,54,Pending management approval
+RC352,Procurement,France,IT Security,CTRL-053,Payroll Validation,Grace Mwangi,2013-11-21,Fail,Medium,Yes,Open,22,Q4 2013,76,2014-01-04,Ali Hassan,82,Awaiting vendor response
+RC353,IT,United,Operational,CTRL-038,Fraud Risk Assessment,Peter Otieno,2014-07-14,Pass,,No,,0,Q3 2014,55,,,,Follow-up scheduled
+RC354,Finance,States,Operational,CTRL-010,Payroll Validation,John Doe,2014-07-14,Pass,,No,,0,Q3 2014,62,,,,Follow-up scheduled
+RC355,Legal,of,Compliance,CTRL-033,Incident Response,Lucy Wanjiku,2014-12-01,Fail,Low,Yes,Closed,77,Q4 2014,37,2015-02-23,Ali Hassan,1,No issues found
+RC356,IT,America,Compliance,CTRL-101,Procurement Policy Adherence,Grace Mwangi,2014-08-17,Pass,,No,,0,Q3 2014,80,,,,Need system update
+RC357,Operations,Germany,Financial,CTRL-111,Procurement Policy Adherence,Jane Smith,2013-08-21,Pass,,No,,0,Q3 2013,80,,,,Follow-up scheduled
+RC358,Operations,Mexico,Strategic,CTRL-101,Fraud Risk Assessment,Grace Mwangi,2014-04-18,Fail,Low,Yes,In Progress,108,Q2 2014,44,2014-06-14,Grace Mwangi,26,Pending management approval
+RC359,Procurement,United,Strategic,CTRL-004,Payroll Validation,Jane Smith,2014-08-15,Pass,,No,,0,Q3 2014,59,,,,Need system update
+RC360,Finance,States,IT Security,CTRL-104,Payroll Validation,Ali Hassan,2013-08-19,Fail,Medium,Yes,Closed,96,Q3 2013,71,2013-11-05,Ali Hassan,41,Control design effective
+RC361,Finance,of,Strategic,CTRL-101,Vendor Approval Process,Jane Smith,2013-06-07,Fail,High,Yes,Closed,102,Q2 2013,93,2013-08-31,Grace Mwangi,48,Follow-up scheduled
+RC362,Procurement,America,Operational,CTRL-069,Procurement Policy Adherence,Jane Smith,2014-05-02,Pass,,No,,0,Q2 2014,62,,,,Control design effective
+RC363,Procurement,France,Compliance,CTRL-012,Access Review,John Doe,2014-11-23,Pass,,No,,0,Q4 2014,24,,,,Need system update
+RC364,Operations,France,IT Security,CTRL-004,Access Review,Jane Smith,2013-03-13,Fail,Medium,Yes,Open,29,Q1 2013,57,2013-05-24,Mary Achieng,58,Awaiting vendor response
+RC365,IT,United,Strategic,CTRL-002,Access Review,Ali Hassan,2014-02-25,Fail,Low,Yes,Open,16,Q1 2014,88,2014-04-22,Grace Mwangi,95,Awaiting vendor response
+RC366,Procurement,States,Financial,CTRL-017,Data Backup Verification,Ali Hassan,2014-03-19,Fail,Low,Yes,Closed,73,Q1 2014,59,2014-05-25,David Njoroge,64,Need system update
+RC367,Legal,of,IT Security,CTRL-036,Data Backup Verification,John Doe,2013-05-27,Fail,Low,Yes,In Progress,77,Q2 2013,51,2013-07-29,Ali Hassan,72,Pending management approval
+RC368,Procurement,America,IT Security,CTRL-074,Vendor Approval Process,Lucy Wanjiku,2013-04-04,Fail,High,Yes,In Progress,44,Q2 2013,58,2013-05-29,David Njoroge,53,Follow-up scheduled
+RC369,HR,Mexico,Strategic,CTRL-094,Procurement Policy Adherence,Grace Mwangi,2014-01-29,Pass,,No,,0,Q1 2014,92,,,,Awaiting vendor response
+RC370,Procurement,Germany,Operational,CTRL-031,Access Review,Ali Hassan,2014-10-06,Fail,High,Yes,Open,89,Q4 2014,47,2015-01-02,Grace Mwangi,52,Control design effective
+RC371,Finance,Mexico,Compliance,CTRL-010,Expense Authorization,Peter Otieno,2013-11-30,Fail,Medium,Yes,Open,32,Q4 2013,46,2014-01-31,Mary Achieng,59,Awaiting vendor response
+RC372,Finance,France,IT Security,CTRL-049,Payroll Validation,Lucy Wanjiku,2014-02-13,Pass,,No,,0,Q1 2014,70,,,,Awaiting vendor response
+RC373,Finance,United,Compliance,CTRL-015,Access Review,Ali Hassan,2014-11-18,Fail,Medium,Yes,In Progress,8,Q4 2014,30,2015-01-22,David Njoroge,91,Pending management approval
+RC374,HR,States,IT Security,CTRL-106,Incident Response,Jane Smith,2013-06-24,Pass,,No,,0,Q2 2013,32,,,,Follow-up scheduled
+RC375,IT,of,Operational,CTRL-069,Procurement Policy Adherence,Jane Smith,2013-03-21,Pass,,No,,0,Q1 2013,54,,,,Follow-up scheduled
+RC376,Procurement,America,Compliance,CTRL-023,Data Backup Verification,Lucy Wanjiku,2013-02-05,Pass,,No,,0,Q1 2013,76,,,,Need system update
+RC377,Finance,France,Strategic,CTRL-083,Expense Authorization,Grace Mwangi,2014-12-08,Fail,Medium,Yes,Open,76,Q4 2014,20,2015-01-10,Grace Mwangi,98,Follow-up scheduled
+RC378,HR,Mexico,Compliance,CTRL-117,Data Backup Verification,Jane Smith,2013-04-04,Pass,,No,,0,Q2 2013,73,,,,Awaiting vendor response
+RC379,Finance,United,Compliance,CTRL-106,Data Backup Verification,Lucy Wanjiku,2014-11-17,Pass,,No,,0,Q4 2014,48,,,,Awaiting vendor response
+RC380,Compliance,States,Financial,CTRL-093,Access Review,John Doe,2014-03-02,Pass,,No,,0,Q1 2014,61,,,,No issues found
+RC381,Operations,of,Financial,CTRL-080,Data Backup Verification,Peter Otieno,2014-02-09,Fail,Low,Yes,Open,27,Q1 2014,33,2014-04-02,Ali Hassan,22,Awaiting vendor response
+RC382,Procurement,America,Compliance,CTRL-002,Procurement Policy Adherence,Jane Smith,2014-04-15,Pass,,No,,0,Q2 2014,28,,,,Need system update
+RC383,Compliance,United,Compliance,CTRL-084,Physical Asset Protection,Ali Hassan,2013-02-14,Pass,,No,,0,Q1 2013,47,,,,Pending management approval
+RC384,IT,States,Strategic,CTRL-064,Expense Authorization,Lucy Wanjiku,2014-07-04,Pass,,No,,0,Q3 2014,52,,,,Awaiting vendor response
+RC385,Operations,of,Compliance,CTRL-081,Procurement Policy Adherence,Lucy Wanjiku,2014-12-12,Pass,,No,,0,Q4 2014,62,,,,Follow-up scheduled
+RC386,Legal,America,Compliance,CTRL-109,AML Monitoring,John Doe,2013-12-10,Pass,,No,,0,Q4 2013,94,,,,Pending management approval
+RC387,Procurement,United,Strategic,CTRL-082,Data Backup Verification,Peter Otieno,2014-08-25,Pass,,No,,0,Q3 2014,49,,,,Awaiting vendor response
+RC388,Operations,States,Operational,CTRL-040,Data Backup Verification,Lucy Wanjiku,2014-03-15,Pass,,No,,0,Q1 2014,30,,,,Awaiting vendor response
+RC389,HR,of,Compliance,CTRL-064,Incident Response,Jane Smith,2013-06-05,Fail,Low,Yes,Closed,4,Q2 2013,50,2013-09-02,Grace Mwangi,94,No issues found
+RC390,HR,America,Compliance,CTRL-041,Vendor Approval Process,Peter Otieno,2014-03-01,Fail,Low,Yes,Open,108,Q1 2014,62,2014-04-21,David Njoroge,26,Control design effective
+RC391,Finance,France,Financial,CTRL-103,Data Backup Verification,Peter Otieno,2014-01-26,Fail,Low,Yes,In Progress,80,Q1 2014,20,2014-03-01,Grace Mwangi,8,Follow-up scheduled
+RC392,Finance,Canada,Financial,CTRL-027,Access Review,John Doe,2013-06-27,Pass,,No,,0,Q2 2013,50,,,,Control design effective
+RC393,Finance,Canada,IT Security,CTRL-093,AML Monitoring,Ali Hassan,2013-06-18,Pass,,No,,0,Q2 2013,51,,,,Pending management approval
+RC394,HR,United,Strategic,CTRL-032,Incident Response,Ali Hassan,2014-08-14,Fail,High,Yes,Open,34,Q3 2014,81,2014-09-18,Ali Hassan,50,Pending management approval
+RC395,HR,States,IT Security,CTRL-057,Procurement Policy Adherence,Peter Otieno,2014-09-17,Fail,Low,Yes,In Progress,2,Q3 2014,68,2014-11-13,Mary Achieng,97,No issues found
+RC396,Operations,of,Strategic,CTRL-020,Fraud Risk Assessment,Lucy Wanjiku,2013-06-29,Fail,Medium,Yes,In Progress,39,Q2 2013,78,2013-08-16,Grace Mwangi,71,Control design effective
+RC397,Procurement,America,Operational,CTRL-043,Access Review,Lucy Wanjiku,2014-04-26,Pass,,No,,0,Q2 2014,39,,,,Follow-up scheduled
+RC398,Finance,France,Operational,CTRL-111,Fraud Risk Assessment,Lucy Wanjiku,2014-01-19,Fail,Medium,Yes,In Progress,120,Q1 2014,70,2014-04-06,Ali Hassan,49,Pending management approval
+RC399,IT,Canada,Strategic,CTRL-010,Procurement Policy Adherence,John Doe,2013-05-08,Fail,High,Yes,Open,24,Q2 2013,75,2013-06-23,Ali Hassan,65,Need system update
+RC400,Procurement,United,Compliance,CTRL-090,Vendor Approval Process,Lucy Wanjiku,2014-01-30,Fail,High,Yes,Open,31,Q1 2014,81,2014-03-03,Ali Hassan,80,Need system update
